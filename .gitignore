@@ -1,0 +1,11 @@
+node_modules/
+*.tar.gz
+*.zip
+*.log
+
+
+.vercel/
+.openai/
+.env
+.env.*
+!.env.example
